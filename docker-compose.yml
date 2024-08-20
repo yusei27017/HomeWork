@@ -1,0 +1,12 @@
+version: '3'
+services:
+  python-base:
+    image: python-base
+    container_name: python-base
+    volumes:
+      - ./python_base:/python_base
+    networks:
+      - dev-network
+
+networks:
+  dev-network:

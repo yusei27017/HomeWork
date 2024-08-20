@@ -1,0 +1,618 @@
+{
+    "vehicles": [
+                    {
+                        "modelName": "艾默瑞思",
+                        "manufacturerName": "培羅",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "X80 概念款",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "尼歐",
+                        "manufacturerName": "飛莎",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "重擊 GT",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "鬥牛勇士",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "威特",
+                        "manufacturerName": "皇霸天",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "鬥牛勇士",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "冠軍",
+                        "manufacturerName": "浪子",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "義塔力 RSX",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "泰澤拉克",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "本質 XXR",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "狂怒者",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "怒吼者",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "陸上彗星 S2",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "經典王者 RS",
+                        "manufacturerName": "卡林",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "獨裁者",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "普雷恩",
+                        "manufacturerName": "卡林",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "佐盧索",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "焰魔狼",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "獨霸者",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "811",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "泰皮斯達",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "經典煉獄魔",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "奔馳者",
+                        "manufacturerName": "佩諾",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "奔牛",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "莎夫特長軸車（附裝甲）",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "XLS（附裝甲）",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "史特靈 GT",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "戰兵",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "德路克索",
+                        "manufacturerName": "英奔堤",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "伊格納斯",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "聖者之行",
+                        "manufacturerName": "LCC",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "瓦格納",
+                        "manufacturerName": "浪子",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "史汀格",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "虎獅",
+                        "manufacturerName": "蘭帕達提",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "亡命之徒",
+                        "manufacturerName": "長崎",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "鬧鬼靈車",
+                        "manufacturerName": "亞班尼",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "經典錫安",
+                        "manufacturerName": "絕品",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "公路霸者 ASP",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "斯拉姆貨車",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "骷髏馬（附裝甲）",
+                        "manufacturerName": "卡林",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "尼羅",
+                        "manufacturerName": "特盧菲",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "尼羅改裝款",
+                        "manufacturerName": "特盧菲",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "神祇",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "辛昆密拉",
+                        "manufacturerName": "蘭帕達提",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "猛牛 STX",
+                        "manufacturerName": "冒險家",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "皇禧",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "帕拉岡 R",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "脫普斯拉力",
+                        "manufacturerName": "蘭帕達提",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "陸上彗星 SR",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "奧西里斯",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "GB200",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "米其利 GT",
+                        "manufacturerName": "蘭帕達提",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "XA-21",
+                        "manufacturerName": "歐斯洛",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "義塔力 GTB 改裝款",
+                        "manufacturerName": "培羅",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "史必特改裝款",
+                        "manufacturerName": "浪子",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "陸上彗星仿古改裝款",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "隨行者 Mk II",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "追捕者 XL",
+                        "manufacturerName": "敦追里",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "薩維斯特拉",
+                        "manufacturerName": "愛尼仕",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "諾瓦克",
+                        "manufacturerName": "蘭帕達提",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "溫德莎開篷版",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "ETR1",
+                        "manufacturerName": "皇霸天",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "FMJ",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "GP1",
+                        "manufacturerName": "培羅",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "本質 XF",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "Z-Type",
+                        "manufacturerName": "特盧菲",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "靈蛇",
+                        "manufacturerName": "特盧菲",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "霓虹",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "行者 ST",
+                        "manufacturerName": "悠遊",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "齊諾",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "陸上彗星 S2 敞篷版",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "龍捲風 II",
+                        "manufacturerName": "旋風",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "艾斯創改裝款",
+                        "manufacturerName": "菲斯特",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "施特龍貝格",
+                        "manufacturerName": "歐斯洛",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "卡拉卡拉",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "迪布達 6x6",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "T20",
+                        "manufacturerName": "培羅",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "泰勒斯",
+                        "manufacturerName": "培羅",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "閃光 GT",
+                        "manufacturerName": "威皮",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "S95",
+                        "manufacturerName": "卡林",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "山貓",
+                        "manufacturerName": "歐斯洛",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "曼巴",
+                        "manufacturerName": "絕緻",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "斯塔福德",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "風情 D10",
+                        "manufacturerName": "非凡",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "武裝伊格納斯",
+                        "manufacturerName": "佩嘉西",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "經典披治",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "義塔力 GTO",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "李維",
+                        "manufacturerName": "西部",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "萊茵哈特",
+                        "manufacturerName": "絕品",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "SM722",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "JB 700W",
+                        "manufacturerName": "浪子",
+                        "plateStyle": "blueWhite3"
+                    },
+                    {
+                        "modelName": "10F 寬體版",
+                        "manufacturerName": "奧北",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "柒-70",
+                        "manufacturerName": "浪子",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "尼俄伯",
+                        "manufacturerName": "絕品",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "瑞巴拉 GTS",
+                        "manufacturerName": "絕品",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "帕拉岡 S",
+                        "manufacturerName": "埃努斯",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "伏翼",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "搬運者改裝款",
+                        "manufacturerName": "喬氏",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "密探 S",
+                        "manufacturerName": "奧北",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "披治崇敬",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "百老匯",
+                        "manufacturerName": "克萊斯科",
+                        "plateStyle": "blueWhite2"
+                    },
+                    {
+                        "modelName": "美德",
+                        "manufacturerName": "歐斯洛",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "本質 MT",
+                        "manufacturerName": "傲弗拉",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "義塔力 GTO 史汀格 TT",
+                        "manufacturerName": "古羅帝",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "猛牛 EVX",
+                        "manufacturerName": "冒險家",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "黑神",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "活力夠 ZX 敞篷版",
+                        "manufacturerName": "絕緻",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "歐羅斯 X32",
+                        "manufacturerName": "愛尼仕",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "LM87",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "行者 ST-D",
+                        "manufacturerName": "悠遊",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "風情 D1",
+                        "manufacturerName": "非凡",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "龐特赫",
+                        "manufacturerName": "凍原",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "甩尾優勝美地",
+                        "manufacturerName": "絕緻",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "天威拉力",
+                        "manufacturerName": "威尼",
+                        "plateStyle": "yellowBlack"
+                    },
+                    {
+                        "modelName": "瓦爾頓 L35",
+                        "manufacturerName": "絕緻",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "恩威賽吉",
+                        "manufacturerName": "包洛坎",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "奔馳者",
+                        "manufacturerName": "佩諾",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "維瓦尼特",
+                        "manufacturerName": "卡林",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "美德",
+                        "manufacturerName": "歐斯洛",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "驚駭位元",
+                        "manufacturerName": "貝飛特",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "猛騾改裝款",
+                        "manufacturerName": "麥霸子",
+                        "plateStyle": "orangeBlue"
+                    },
+                    {
+                        "modelName": "貝凱迪 6x6",
+                        "manufacturerName": "MTL",
+                        "plateStyle": "yellowBlack"
+                    }
+                ]
+    }
