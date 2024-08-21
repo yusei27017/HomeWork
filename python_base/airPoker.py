@@ -1,4 +1,3 @@
-from itertools import combinations
 
 # 定義撲克牌的花色和點數
 poker_suit, poker_rank = ['♦', '♣', '♠', '♥'], ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
