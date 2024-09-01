@@ -53,12 +53,49 @@ def print_replace(target_data, indenta_str):
                 print_replace(val, indenta_str+"\t")
         print()
     return
-    
+
+def print_json(data, indent=0):
+    spaces = ' ' * (indent * 4)
+    if isinstance(data, dict):
+        print(spaces + '{')
+        for i, (key, value) in enumerate(data.items()):
+            print(f"{spaces}    \"{key}\": ", end='')
+            if isinstance(value, (dict, list)):
+                print()
+                print_json(value, indent + 1)
+            else:
+                if isinstance(value, str):
+                    print(f"\"{value}\"", end='')
+                else:
+                    print(value, end='')
+            if i < len(data) - 1:
+                print(',')
+            else:
+                print()
+        print(spaces + '}', end='')
+    elif isinstance(data, list):
+        print(spaces + '[')
+        for i, item in enumerate(data):
+            if isinstance(item, (dict, list)):
+                print_json(item, indent + 1)
+            else:
+                if isinstance(item, str):
+                    print(f"{spaces}    \"{item}\"", end='')
+                else:
+                    print(f"{spaces}    {item}", end='')
+            if i < len(data) - 1:
+                print(',')
+            else:
+                print()
+        print(spaces + ']', end='')
+    else:
+        print(data, end='')
+
 
 if __name__ == "__main__":
     input_data = read_data()
     vehicles_data = input_data['vehicles']
     vehicle_dict = data_replace(vehicles_data)
-    # save_res = data_trs_json(vehicle_dict)
-    # print(save_res)
-    print_replace(vehicle_dict, "")
+    save_res = data_trs_json(vehicle_dict)
+    print(save_res)
+    print_json(vehicle_dict)
