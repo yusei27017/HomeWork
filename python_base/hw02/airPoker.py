@@ -31,5 +31,5 @@ def poker_combinations(num):
     return list(poker_ans)
 
 if __name__ == "__main__":
-    ans = poker_combinations(15)
+    ans = poker_combinations(6)
     print(ans)
