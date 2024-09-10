@@ -44,7 +44,7 @@ def data_replace(vehicles_data):
             #例{"modelName": "黑神","plateStyle": "yellowBlack"}將直接印出
 
     return categorized_data
-    #使用data_replace(vehicles_data)呼叫此函數，將從vehicle提取的數據categorized_data結果輸出
+    #使用data_replace(vehicles_data)呼叫此函數，將從vehicle提取的數據 用categorized_data變數 輸出
 
 if __name__ == "__main__":
     input_data = read_data()
@@ -57,7 +57,9 @@ if __name__ == "__main__":
     #使用 data_replace(vehicles_data)函數 將其輸出的categorized_data內容匯入data_dict
 
 transformed_data = {
-    manufacturer: [item["modelName"] for item in models]
+    #此為transformed_data字典，將會使用 data_dict 變數內的數據
+    #key值為 manufacturerName 填入 ,value值為取用modelName填入
+    manufacturer : [item["modelName"] for item in models]
     for manufacturer, models in data_dict.items()
 }
 print(json.dumps(transformed_data, ensure_ascii=False, indent=4))
